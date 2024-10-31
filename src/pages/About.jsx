@@ -34,7 +34,7 @@ const About = () => {
             <div className='mt-5 flex flex-col gap-3 text-slate-500'>
             <p>Durant mes formations pour ma reconversion et ensuite avec mon expérience professionelle, j'ai travaillé de sorte à améliorer mes compétences et 
               ai pu faire équipe avec des personnes inspirantes qui m'ont permises de m'améliorer chaque jour. <br />
-              En voici un récapitulatif:
+              En voici un récapitulatif du plus récent au plus ancien:
             </p>
             </div>
             <div className='mt-12 flex'>
