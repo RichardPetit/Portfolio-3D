@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { meta, shopify, starbucks, tesla, human, wild, lapeyre, oc, scalian, axians } from "../assets/images";
 import {
     car,
     contact,
@@ -162,6 +162,72 @@ export const experiences = [
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
+    {
+        title: "Développeur Web ",
+        company_name: "Human Immobilier",
+        icon: human,
+        iconBg: "#0c4b84",
+        date: "Depuis Mai 2022 -",
+        points: [
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+    {
+        title: "Développeur Web (cdd 1 mois) ",
+        company_name: "Axians",
+        icon: axians,
+        iconBg: "#0460dc",
+        date: "Avril 2022",
+        points: [
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+    {
+        title: "Formation OpenClassrooms",
+        company_name: "OpenClassrooms",
+        icon: oc,
+        iconBg: "#7353eb",
+        date: "Novembre 2020 - Fevrier 2022",
+        points: [
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+    {
+        title: "Stage en entreprise rémunéré",
+        company_name: "Scalian",
+        icon: scalian,
+        iconBg: "#47247f",
+        date: "Mars 2020 - Juin 2020",
+        points: [
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+    {
+        title: "Formation de développeur Developer",
+        company_name: "Wild Code School",
+        icon: wild,
+        iconBg: "#ec6c6c",
+        date: "Septembre 2019 - Février 2020",
+        points: [
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+
 ];
 
 export const socialLinks = [
